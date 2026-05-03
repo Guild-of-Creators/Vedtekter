@@ -4,7 +4,7 @@ Forslag til Vedtekter (absolutt ikke stjålet masse fra Ifi-ProgSys)
 Legg merke til ... av ufullstendige setninger  som må fullføres
 
 ## §1 Foreningens Navn
-Foreningens navn er 
+Foreningens navn er ?
 - Guild of Creators
 - Creator's Guild
 - Ifi Creators
@@ -12,13 +12,18 @@ Foreningens navn er
 
 ## §2 Foreningens Formål
 Foreningens formål er å:
+
 a) videreutvikle og drifte Ifi Platform
+
 b) lage og eventuelt drifte studentprosjekter 
+
 c) gi et felles sted og støtte for de som har lyst å lage noe utenfor skoletid
 
 ## §3 Medlemskap
 a) Alle studenter ved Institutt for Informatikk ved Universitetet i Oslo kan bli medlemmer.
+
 b) Foreningen har ingen medlemskontingent.
+
 c) Styret har ansvar for foreningens medlemsregister
 
 ## §4 Generalforsamlingen og dens myndighet
