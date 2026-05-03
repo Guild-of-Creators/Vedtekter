@@ -97,11 +97,13 @@ a) Styret skal ha minimum 5 og maks 11 styremedlemmer som velges for ett år på
 
 b) Styret består av Styreleder, Nestleder, Økonomiansvarlig, Prosjekt ansvarlig og kan bestå av Arrangementsansvarlig, Promoteringsansvarlig, Internansvarlig og ... styremedlemmer.
 
-c) Dersom enkelte verv ikke blir besatt på generalforsamling, med unntak av vervene styret må bestå av, jf. §5 b, kan styret selv utpeke nye styremedlemmer.
+c) To tredjedeler av styremedlemmene i foreningen skal være aktive IFI-studenter.
 
-d) Ved eventuelle frafall av styremedlemmer, med unntak av leder, kan styret selv utpeke nye styremedlemmer som blir sittende frem til neste ordinære generalforsamling.
+d) Dersom enkelte verv ikke blir besatt på generalforsamling, med unntak av vervene styret må bestå av, jf. §5 b, kan styret selv utpeke nye styremedlemmer.
 
-e) Trekker leder seg fra vervet tar nestleder over som leder til neste generalforsamling og styret utnevner en ny nestleder som er nestleder til neste generalforsamling.
+e) Ved eventuelle frafall av styremedlemmer, med unntak av leder, kan styret selv utpeke nye styremedlemmer som blir sittende frem til neste ordinære generalforsamling.
+
+f) Trekker leder seg fra vervet tar nestleder over som leder til neste generalforsamling og styret utnevner en ny nestleder som er nestleder til neste generalforsamling.
 
 ## §6 Styret og dets oppgaver
 a) Styret er ansvarlig for {foreningens navn} sin virksomhet og for at foreningens vedtekter følges.
