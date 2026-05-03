@@ -1,1 +1,0 @@
-vedtekter.md
