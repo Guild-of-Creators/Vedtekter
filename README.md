@@ -1,2 +1,1 @@
-# Vedtekter
-Forslag til Vedtekter
+vedtekter.md
