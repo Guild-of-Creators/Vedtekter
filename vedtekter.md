@@ -1,7 +1,4 @@
-# Vedtekter 
-(ikke gjeldene per 03/07/26)
-Forslag til Vedtekter (absolutt ikke stjålet masse fra Ifi-ProgSys)
-Legg merke til ... av ufullstendige setninger som må fullføres
+# Vedtekter
 
 ## §1 Foreningens Navn
 Foreningens navn er Ifi-Creators' Guild. Videre i dette dokumentet vil foreningen blir referert som Creators' Guild.
@@ -23,7 +20,7 @@ b) Foreningen har ingen medlemskontingent.
 c) Styret har ansvar for foreningens medlemsregister
 
 ## §4 Generalforsamlingen og dens myndighet
-a) Generalforsamlingen er foreningens høyeste organ. Ordinær generalforsamling avholdes årlig i henhold til §4 i 5 og §4 j 5. Det kan innkalles til ekstraordinær generalforsamling dersom styret eller minst...
+a) Generalforsamlingen er foreningens høyeste organ. Ordinær generalforsamling avholdes årlig i henhold til §4 i 5 og §4 j 3. Det kan innkalles til ekstraordinær generalforsamling dersom styret eller minst 2/3 medlemmer av Creators' Guild ønsker det.
 
 b) Ordinær generalforsamling holdes tidligst 14 dager etter innkallelse.
 
@@ -46,7 +43,7 @@ f) Forslag til vedtektsendringer
   4) Styret kan velge å behandle forslag til vedtektsendringer selv om forslaget ikke
   var styret i hende innen fristen beskrevet i §4 f.
 
-g) Generalforsamlingen er beslutningsdyktig hvis minst ... stemmeberettigede er til stede.
+g) Generalforsamlingen er beslutningsdyktig hvis minst 8 stemmeberettigede er til stede.
 
 h) Det skal holdes 1 - én - ordinær generalforsamling hvert semester. I høstsemesteret skal det holdes valg av vervene som følger av §4 i 1. I vårsemesteret skal det holdes valg av vervene som følger av §4 j 1.
 
@@ -86,12 +83,12 @@ j) Den ordinære generalforsamlingen som holdes i vårsemesteret
       b) Ved ingen kandidater, har styret fullmakt til å etterfylle vervet slik de
       ønsker, jf. §5 c
       
-  3) Ordinær generalforsamling vår må holdes senest innen utgangen av februar
+  3) Ordinær generalforsamling vår må holdes senest innen utgangen av mai
 
 ## §5 Styret og valg
-a) Styret skal ha minimum 5 og maks 11 styremedlemmer som velges for ett år på ordinær generalforsamling.
+a) Styret skal ha minimum 4 og maks 11 styremedlemmer som velges for ett år på ordinær generalforsamling.
 
-b) Styret består av Styreleder, Nestleder, Økonomiansvarlig, Prosjekt ansvarlig og kan bestå av Arrangementsansvarlig, Promoteringsansvarlig, Internansvarlig og ... styremedlemmer.
+b) Styret består av Styreleder, Nestleder, Økonomiansvarlig, Prosjekt ansvarlig og kan bestå av Arrangementsansvarlig, Promoteringsansvarlig, Internansvarlig og 4 styremedlemmer.
 
 c) To tredjedeler av styremedlemmene i foreningen skal være aktive IFI-studenter.
 
