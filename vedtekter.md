@@ -1,14 +1,10 @@
 # Vedtekter 
 (ikke gjeldene per 03/07/26)
 Forslag til Vedtekter (absolutt ikke stjålet masse fra Ifi-ProgSys)
-Legg merke til ... av ufullstendige setninger  som må fullføres
+Legg merke til ... av ufullstendige setninger som må fullføres
 
 ## §1 Foreningens Navn
-Foreningens navn er ?
-- Guild of Creators
-- Creator's Guild
-- Ifi Creators
-- Ifi Creator's CLub
+Foreningens navn er Ifi-Creators' Guild. Videre i dette dokumentet vil foreningen blir referert som Creators' Guild.
 
 ## §2 Foreningens Formål
 Foreningens formål er å:
@@ -27,7 +23,7 @@ b) Foreningen har ingen medlemskontingent.
 c) Styret har ansvar for foreningens medlemsregister
 
 ## §4 Generalforsamlingen og dens myndighet
-a) Generalforsamlingen er foreningens høyeste organ. Ordinær generalforsamling avholdes årlig i henhold til... Det kan innkalles til ekstraordinær generalforsamling dersom styret eller minst...
+a) Generalforsamlingen er foreningens høyeste organ. Ordinær generalforsamling avholdes årlig i henhold til §4 i 5 og §4 j 5. Det kan innkalles til ekstraordinær generalforsamling dersom styret eller minst...
 
 b) Ordinær generalforsamling holdes tidligst 14 dager etter innkallelse.
 
@@ -106,7 +102,7 @@ e) Ved eventuelle frafall av styremedlemmer, med unntak av leder, kan styret sel
 f) Trekker leder seg fra vervet tar nestleder over som leder til neste generalforsamling og styret utnevner en ny nestleder som er nestleder til neste generalforsamling.
 
 ## §6 Styret og dets oppgaver
-a) Styret er ansvarlig for {foreningens navn} sin virksomhet og for at foreningens vedtekter følges.
+a) Styret er ansvarlig for Creators' Guild sin virksomhet og for at foreningens vedtekter følges.
 
 b) Styret er beslutningsdyktig dersom minst halvparten av styrets medlemmer er tilstede.
 
