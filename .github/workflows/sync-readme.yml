@@ -1,4 +1,4 @@
-name: Sync README with docs/MAIN.md
+name: Sync README with vedtekter.md
 
 on:
   push:
@@ -8,6 +8,8 @@ on:
 jobs:
   sync-readme:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Check out repository
