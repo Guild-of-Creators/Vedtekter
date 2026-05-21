@@ -1,4 +1,4 @@
-# Vedtekter
+# Ifi-Creators' Guild: Vedtekter
 
 ## §1 Foreningens Navn
 Foreningens navn er Ifi-Creators' Guild. Videre i dette dokumentet vil foreningen blir referert som Creators' Guild.
