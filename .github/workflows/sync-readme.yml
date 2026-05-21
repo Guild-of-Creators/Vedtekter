@@ -1,0 +1,26 @@
+name: Sync README with docs/MAIN.md
+
+on:
+  push:
+    paths:
+      - 'vedtekter.md'   # Only run when this file changes
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Copy vedtekter.md to README.md
+        run: |
+          cp vedtekter.md README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Sync README with vedtekter.md" || echo "No changes to commit"
+          git push
