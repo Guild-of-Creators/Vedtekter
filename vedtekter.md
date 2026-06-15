@@ -106,15 +106,15 @@ b) Styret er beslutningsdyktig dersom minst halvparten av styrets medlemmer er t
 c) Styret fatter beslutninger ved enkelt flertall ved stemmegivning. Ved stemmelikhet telles leders stemme dobbelt.
 
 ## §7 Signaturrett
-a) Styrets leder kan signere på vegne av {foreningens navn}.
+a) Styrets leder kan signere på vegne av Ifi-Creators' Guild.
 
-b) To av styrets medlemmer kan sammen signere på vegne av {foreningens navn}.
+b) To av styrets medlemmer kan sammen signere på vegne av Ifi-Creators' Guild.
 
 ## §8 Foreningens midler
 Foreningens midler skal brukes i henhold til foreningens budsjett. Budsjettet utformes med foreningens formål som grunnlag.
 
 ## §9 Etikk og varsling
-Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i planleggingen av aktiviteter. Skjer kritikkverdige forhold i foreningen eller under foreningens arrangementer, skal dette varsles i henhold til {foreningens navn} sine varslingsrutiner. Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske retningslinjer som alle medlemmer skal gjøre seg kjent med.
+Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i planleggingen av aktiviteter. Skjer kritikkverdige forhold i foreningen eller under foreningens arrangementer, skal dette varsles i henhold til Ifi-Creators' Guild sine varslingsrutiner. Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske retningslinjer som alle medlemmer skal gjøre seg kjent med.
 
 ## §10 Sanksjoner
 Ved brudd på norsk lov, foreningens vedtekter eller retningslinjer kan styret ilegge sanksjoner mot den aktuelle personen. Sanksjoner kan inkludere, men er ikke begrenset til, advarsler, midlertidig suspensjon av medlemsrettigheter, eller i alvorlige tilfeller, eksklusjon fra foreningen. Alle sanksjoner skal besluttes av styret med et kvalifisert flertall på minst to tredjedeler. Vedtak av sanksjoner kan ankes til styret for ny behandling av saken.
