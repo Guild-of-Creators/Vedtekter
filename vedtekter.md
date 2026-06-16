@@ -6,18 +6,18 @@ Foreningens navn er IFI-Creators' Guild. Videre i dette dokumentet vil foreninge
 ## §2 Foreningens Formål
 Foreningens formål er å:
 
-a) videreutvikle og drifte IFI Platform
+a) videreutvikle og drifte IFI Platform.
 
-b) lage og eventuelt drifte studentprosjekter 
+b) lage og eventuelt drifte studentprosjekter.
 
-c) gi et felles sted og støtte for de som har lyst å lage noe utenfor skoletid
+c) gi et felles sted og støtte for de som har lyst å lage noe utenfor skoletid.
 
 ## §3 Medlemskap
 a) Alle studenter ved Institutt for Informatikk ved Universitetet i Oslo kan bli medlemmer.
 
 b) Foreningen har ingen medlemskontingent.
 
-c) Styret har ansvar for foreningens medlemsregister
+c) Styret har ansvar for foreningens medlemsregister.
 
 ## §4 Generalforsamlingen og dens myndighet
 a) Generalforsamlingen er foreningens høyeste organ. Ordinær generalforsamling avholdes årlig i henhold til §4 i 5 og §4 j 3. Det kan innkalles til ekstraordinær generalforsamling dersom styret eller minst 2/3 medlemmer av Creators' Guild ønsker det.
@@ -32,7 +32,7 @@ e) Alle studenter tilhørende ved Institutt for Informatikk ved Universitetet i 
 
 f) Forslag til vedtektsendringer
   1) Forslag til vedtektsendringer skal være styret i hende senest 2 dager før
-  ordinær generalforsamling
+  ordinær generalforsamling.
   
   2) Forslag til vedtektsendringer skal være styret i hende senest 1 dag før
   ekstraordinær generalforsamling.
@@ -81,9 +81,9 @@ j) Den ordinære generalforsamlingen som holdes i vårsemesteret
   bestemmelser:
       a) Vervet til det respektive styremedlemmet, skal holdes valg for.
       b) Ved ingen kandidater, har styret fullmakt til å etterfylle vervet slik de
-      ønsker, jf. §5 c
+      ønsker, jf. §5 c.
       
-  3) Ordinær generalforsamling vår må holdes senest innen utgangen av mai
+  3) Ordinær generalforsamling vår må holdes senest innen utgangen av mai.
 
 ## §5 Styret og valg
 a) Styret skal ha minimum 4 og maks 11 styremedlemmer som velges for ett år på ordinær generalforsamling.
