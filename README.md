@@ -1,12 +1,12 @@
-# Ifi-Creators' Guild: Vedtekter
+# IFI-Creators' Guild: Vedtekter
 
 ## §1 Foreningens Navn
-Foreningens navn er Ifi-Creators' Guild. Videre i dette dokumentet vil foreningen blir referert som Creators' Guild.
+Foreningens navn er IFI-Creators' Guild. Videre i dette dokumentet vil foreningen blir referert som Creators' Guild.
 
 ## §2 Foreningens Formål
 Foreningens formål er å:
 
-a) videreutvikle og drifte Ifi Platform
+a) videreutvikle og drifte IFI Platform
 
 b) lage og eventuelt drifte studentprosjekter 
 
