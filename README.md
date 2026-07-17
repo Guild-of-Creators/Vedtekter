@@ -43,7 +43,7 @@ f) Forslag til vedtektsendringer
   4) Styret kan velge å behandle forslag til vedtektsendringer selv om forslaget ikke
   var styret i hende innen fristen beskrevet i §4 f.
 
-g) Generalforsamlingen er beslutningsdyktig hvis minst 8 stemmeberettigede er til stede.
+g) Generalforsamlingen er beslutningsdyktig hvis minst dobbelt av antallet av stittende styret + 1 stemmeberettigede er til stede.
 
 h) Det skal holdes 1 - én - ordinær generalforsamling hvert semester. I høstsemesteret skal det holdes valg av vervene som følger av §4 i 1. I vårsemesteret skal det holdes valg av vervene som følger av §4 j 1.
 
